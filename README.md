@@ -14,6 +14,6 @@ Hello, I'm [Matheus Gontijo](https://www.matheusgontijo.com/) and I work with e-
 You can reach out to me: 🗨️🗨️🗨️
 - Email   : matheus at matheusgontijo.com
 - Twitter : [@mhgontijo](https://twitter.com/mhgontijo)
-- LinkedIn: [Matheus Gontijo](https://twitter.com/mhgontijo)
+- LinkedIn: [Matheus Gontijo](https://www.linkedin.com/in/matheus-gontijo-95989a70/)
 - GitHub  : [matheusgontijo](https://github.com/matheusgontijo)
 - Website : [matheusgontijo.com](https://www.matheusgontijo.com)
