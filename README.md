@@ -6,7 +6,7 @@ Hello, I'm [Matheus Gontijo](https://www.matheusgontijo.com/) and I work with e-
 
 🗣️ I had the opportunity to speak and to attend conferences all over the world! 🇺🇸🇨🇦🇩🇪🇧🇷🇳🇱🇧🇪🇭🇷🇫🇷🇬🇧
 
-👉 Big fan of open-source, community, PHP, Linux, remote work & soccer
+👉 Big fan of open-source, conferences, community, PHP, Linux, remote work & soccer
 
 ------
 
