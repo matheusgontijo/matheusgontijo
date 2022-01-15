@@ -1,16 +1,19 @@
-### Hi there 👋
+# Shopware Developer
 
-<!--
-**matheusgontijo/matheusgontijo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, I'm [Matheus Gontijo](https://www.matheusgontijo.com/) and I work with e-commerce for +11 years!
 
-Here are some ideas to get you started:
+🖥️ Shopware Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🗣️ I had the opportunity to speak and to attend conferences all over the world! 🇺🇸🇨🇦🇩🇪🇧🇷🇳🇱🇧🇪🇭🇷🇫🇷🇬🇧
+
+👉 Big fan of open-source, community, PHP, Linux, remote work & soccer
+
+------
+
+
+You can reach out to me: 🗨️🗨️🗨️
+- Email   : matheus at matheusgontijo.com
+- Twitter : [@mhgontijo](https://twitter.com/mhgontijo)
+- LinkedIn: [Matheus Gontijo](https://twitter.com/mhgontijo)
+- GitHub  : [matheusgontijo](https://github.com/matheusgontijo)
+- Website : [matheusgontijo.com](https://www.matheusgontijo.com)
