@@ -1,6 +1,6 @@
 ### Hello, I'm Matheus Gontijo 👋👋
 
-:arrow_right:&nbsp;&nbsp;Shopware Developer Advocate @ [WSNYC](https://www.websolutionsnyc.com/)<br />
+:arrow_right:&nbsp;&nbsp;Shopware Developer<br />
 🔥&nbsp;&nbsp;+11 years working with e-commerce<br />
 :microphone:&nbsp;&nbsp;Speaking and attending conferences all over the world! 🇺🇸🇨🇦🇩🇪🇧🇷🇳🇱🇧🇪🇭🇷🇫🇷🇬🇧<br />
 :writing_hand:&nbsp;&nbsp;Writing technical blogposts about Shopware and best practices<br />
