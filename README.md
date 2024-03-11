@@ -1,10 +1,10 @@
 ### Hello, I'm Matheus Gontijo 👋👋
 
 :arrow_right:&nbsp;&nbsp;Shopware Developer<br />
-🔥&nbsp;&nbsp;+11 years working with e-commerce<br />
+🔥&nbsp;&nbsp;+13 years working with e-commerce<br />
 :microphone:&nbsp;&nbsp;Speaking and attending conferences all over the world! 🇺🇸🇨🇦🇩🇪🇧🇷🇳🇱🇧🇪🇭🇷🇫🇷🇬🇧<br />
 :writing_hand:&nbsp;&nbsp;Writing technical blogposts about Shopware and best practices<br />
-:heart:&nbsp;&nbsp;Clean code, Software Architecture, OOP, DDD, Agile<br />
+:heart:&nbsp;&nbsp;Clean code, Software Architecture, OOP, Agile<br />
 :speaking_head:&nbsp;&nbsp;Organized PHP Day Brazil 2018. +200 PHP developers<br />
 :point_right:&nbsp;&nbsp;Big fan of open-source, conferences, community, PHP, Symfony, Linux, remote work & soccer<br /><br />
 
